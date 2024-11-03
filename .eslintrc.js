@@ -21,6 +21,7 @@ module.exports = {
     semi: 'off',
     quotes: 'off',
     indent: 'off',
+    'object-curly-spacing': 'off',
     'padded-blocks': 'off',
     'comma-dangle': 'off',
     'function-paren-newline': 'off',

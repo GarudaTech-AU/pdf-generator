@@ -1,1 +1,2 @@
-export * as generatorController from "./generator";
+export * as appController from './appController'
+export * as pdfController from './pdfController'

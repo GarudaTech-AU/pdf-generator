@@ -1,1 +1,1 @@
-export { GeneratorService } from "./generator";
+export * as pdfService from './pdfService'
